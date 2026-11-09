@@ -1,0 +1,20 @@
+body { font-family: 'Lucida Grande', sans-serif;font-size: 15px; }
+h2 { color: #0b617a;text-align: center;font-variant: small-caps; }
+#hidden { color: white;height: 50px; }
+
+
+img { display: block; width: 541px; margin-left:auto;margin-right: auto; }
+img { border: 0px; }
+
+#headline { color: black;font-weight: bold;width: 630px;text-align: center;margin-left: auto;margin-right: auto;margin-top: 5px; margin-bottom: 5px }
+
+#services { width: 630px;margin-left: auto;margin-right: auto;  }
+
+#services ul {  }
+#services ul li { padding-bottom: 10px; }
+#services ul li b { color: #0b617a;font-variant: small-caps;  }
+
+#notes { width: 600px; margin-left: auto;margin-right: auto;padding-bottom: 10px;}
+#notes .item { padding-bottom: 10px;text-align: center; }
+#notes .item.border { border: solid 1px black;padding-top: 10px;margin-bottom: 20px; }
+#notes .item span  { color: #0b617a;font-weight: bold; } 
